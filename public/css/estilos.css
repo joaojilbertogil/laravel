@@ -1,0 +1,12 @@
+h3{
+    color:brown;
+    border-bottom: 1px solid;
+
+ }
+ .cantainer{
+    margin: auto;
+    width: 1200px;
+ }
+ body{
+    background-color: rgb(241, 231, 169);
+ }
